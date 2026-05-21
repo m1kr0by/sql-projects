@@ -40,3 +40,4 @@
 ###  Топ-2 товара по выручке (Запрос 3)
 <img width="1629" height="1083" alt="top2" src="https://github.com/user-attachments/assets/2fb9cb75-dbcd-42fd-ac05-a83008fdd739" />
 *Товар lunnen outer 16 приносит 70% выручки в категории ноутбуков. Это высокая зависимость от одного товара — риск для бизнеса.*
+![Uploading chart1.png…]()
