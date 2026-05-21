@@ -33,10 +33,10 @@
 
 ### 📈 Анализ по категориям (Запрос 2)
 <img width="1625" height="1083" alt="categories" src="https://github.com/user-attachments/assets/791cf9ae-08be-4416-a2e3-339c68fcaae3" />
-
 *Ноутбуки и смартфоны генерируют >60% выручки. Категория "Мониторы" требует внимания.*
 <img width="6967" height="3127" alt="chart" src="https://github.com/user-attachments/assets/f8ddfd42-0bf6-4b56-8aa4-9d6aceade0a0" />
 
 
 ###  Топ-2 товара по выручке (Запрос 3)
 <img width="1629" height="1083" alt="top2" src="https://github.com/user-attachments/assets/2fb9cb75-dbcd-42fd-ac05-a83008fdd739" />
+*Товар lunnen outer 16 приносит 70% выручки в категории ноутбуков. Это высокая зависимость от одного товара — риск для бизнеса.*
