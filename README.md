@@ -32,7 +32,6 @@
 ##  Результаты
 
 ### 📈 Анализ по категориям (Запрос 2)
-![Категории]
 <img width="1625" height="1083" alt="categories" src="https://github.com/user-attachments/assets/791cf9ae-08be-4416-a2e3-339c68fcaae3" />
 
 *Ноутбуки и смартфоны генерируют >60% выручки. Категория "Мониторы" требует внимания.*
@@ -40,5 +39,4 @@
 
 
 ###  Топ-2 товара по выручке (Запрос 3)
-![Топ товары]
 <img width="1629" height="1083" alt="top2" src="https://github.com/user-attachments/assets/2fb9cb75-dbcd-42fd-ac05-a83008fdd739" />
